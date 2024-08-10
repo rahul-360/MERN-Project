@@ -1,0 +1,15 @@
+.featuredTourList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+@media only screen and (max-width: 576px) {
+    .FeaturedTourList{
+        width: 194px;
+        height: 360px;
+        font-size: 1.2rem;
+        margin: 0;
+        padding: 0 3px;
+    }
+}

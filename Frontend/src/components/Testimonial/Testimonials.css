@@ -1,0 +1,50 @@
+.slide{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.per01,.per02,.per03,.per04,.per05,.per06{
+    width: 800px;
+    width: 33%;
+    padding: 24px 16px;
+    text-align: justify;
+}
+
+.Per{
+    display: flex;
+    align-items: center;
+}
+
+.img1,.img2,
+.img3,.img4,
+.img5,.img6{
+    width: 100px;
+    height: 100px;
+}
+
+@media only screen and (max-width: 576px) {
+
+    .per01,.per02,.per03,.per04,.per05,.per06{
+        width: 45%;
+        margin: 9px;
+        padding: 0; 
+        text-align: justify;
+    }
+
+    .Per{
+        display: block;
+    }
+
+    .per01 img,.per02 img,
+    .per03 img,.per04 img,
+    .per05 img,.per06 img{
+        width: 80%;
+        height: 120px;
+    }
+
+    .name{
+        font-size: 1.5rem;
+    }
+
+}

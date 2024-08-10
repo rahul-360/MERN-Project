@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Cappadocia",
+    "city": "Turkey",
+    "address": "Cappadocia,Turkey",
+    "distance": 300,
+    "price": 79200,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Bali",
+    "city": "Indonesia",
+    "address": "Bali,Indonesia",
+    "distance": 400,
+    "price": 76800,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Bordeaux",
+    "city": "France",
+    "address": "Bordeaux,France",
+    "distance": 500,
+    "price": 60800,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Sun Island",
+    "city": "Maldives",
+    "address": "Sun Island,Maldives",
+    "distance": 500,
+    "price": 68000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Le Morne",
+    "city": "Mauritius",
+    "address": "Le Morne,Mauritius",
+    "distance": 500,
+    "price": 60000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Ipanema Beach",
+    "city": "Brazil",
+    "address": "Ipanema Beach,Brazil",
+    "distance": 500,
+    "price": 70400,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Lisbon",
+    "city": "Portuguese",
+    "address": "Lisbon,Portuguese",
+    "distance": 500,
+    "price": 63200,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Sukhothai",
+    "city": "Thailand",
+    "address": "Sukhothai,Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaflong, Sylhet-2",
+    "city": "Sylhet",
+    "address": "Somewhere in Sylhet",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Cox's Bazar Sea Beach-2",
+    "city": "Chittagong",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  }
+]

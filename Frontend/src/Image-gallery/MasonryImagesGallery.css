@@ -1,0 +1,33 @@
+
+.masonryImage{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+
+.masonry_img{
+    width:20%;
+    height:500px;
+    display:block; 
+    border-radius:10px;
+    margin: 10px;
+}
+
+@media only screen and (max-width: 576px) {
+
+    .masonry_img{
+        width:45%;
+        height:200px;
+        margin: 5px;
+    }
+
+    .masonryImage{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+     }
+  
+}
+

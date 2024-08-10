@@ -1,0 +1,18 @@
+.Gallery{
+   padding: 1.5rem 0;
+}
+
+.gallery__title {
+    font-size    : 1.6rem;
+    margin-bottom: 2.5rem;
+    margin-top   : 0.8rem;
+    font-family:"Sofia", sans-serif ;
+ }
+ 
+ .photo__img {
+    transition: 0.3s;
+ }
+ 
+ .photo__img:hover {
+    transform: scale(1.1);
+ }
